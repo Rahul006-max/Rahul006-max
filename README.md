@@ -1,4 +1,11 @@
-## Hi there 👋
+#Hello everyone Iam Rahul 👋
+<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNuNG4wZ2M0d295YWZ6ZDVmZmw1Yzl1eWF5dXhtbW9jMjRuZ3NsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vJx2snBnzvezS/giphy.gif)" height="100" /></a>
+
+Connect with me
+<a href="https://www.linkedin.com/in/rahulp-0084ba2a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs2wtLxeYTBqoJNe%2B%2FEx7Mg%3D%3D" target="blank" ><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/edd687d7-c471-4ccb-8dca-2cfef5165f1b" /></a>
+
+github EXP Farming:
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul006-max&theme=merko&rank_icon=github)](https://github.com/Rahul006-max/github-readme-stats)
 
 <!--
 **Rahul006-max/Rahul006-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
