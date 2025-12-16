@@ -88,8 +88,9 @@
 ## 🏆 Treasure Collected
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul006-max&theme=darkhub&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul006-max" />
 </p>
+
 
 
 ---
