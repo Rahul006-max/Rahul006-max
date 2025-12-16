@@ -19,8 +19,7 @@
 ---
 
 ## 🧑‍💻 About Me (Crew Log)
-
-🌊 BCA student from **Bangalore**  
+ 
 🔭 Currently sailing through **personal tech projects**  
 🌱 Training arc: **AI • ML • NLP**  
 👯 Looking for **crew members (collabs & hackathons)**  
