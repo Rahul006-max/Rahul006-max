@@ -85,16 +85,6 @@
 
 ---
 
-## 🏆 Treasure Collected
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul006-max" />
-</p>
-
-
-
----
-
 ## ✍️ Captain’s Words
 
 <p align="center">
