@@ -28,7 +28,7 @@
 
 ---
 
-## 🌐 Join My Crew
+## 🌐 Connect with me 
 
 <p align="center">
   <a href="https://linkedin.com/in/rahulp-0084ba2a4">
