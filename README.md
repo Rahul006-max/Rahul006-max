@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rahul006-max&label=Visitors%20on%20the%20Grand%20Line&color=9&icon=6" />
+  <img src="https://komarev.com/ghpvc/?username=rahul006-max&label=Visitors%20on%20the%20Grand%20Line&color=red&style=plastic" />
 </p>
+
 
 <p align="center">
   ☠️ Inspired by Monkey D. Luffy — Dream Big. Never Quit. ☠️
@@ -87,8 +88,9 @@
 ## 🏆 Treasure Collected
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul006-max&theme=onedark&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul006-max&theme=darkhub&margin-w=15&column=6" />
 </p>
+
 
 ---
 
