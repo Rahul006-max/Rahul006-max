@@ -1,26 +1,34 @@
-<!-- Anime Themed GitHub Profile README -->
+<!-- One Piece × Anime Themed GitHub Profile README -->
 
-<h1 align="center">🌸 Hey there, I'm Rahul P 🌸</h1>
-<h3 align="center">⚔️ Tech Explorer | AI Enthusiast | Anime Lover ⚔️</h3>
+<h1 align="center">🏴‍☠️ Hey, I'm Rahul P 🏴‍☠️</h1>
+<h3 align="center">🔥 Future Pirate King of Code | AI Explorer | Anime Lover 🔥</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="320" alt="Monkey D. Luffy" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rahul006-max&label=Visitors%20on%20the%20Grand%20Line&color=9&icon=6" />
+</p>
+
+<p align="center">
+  ☠️ Inspired by Monkey D. Luffy — Dream Big. Never Quit. ☠️
 </p>
 
 ---
 
-## 🧑‍💻 About Me (Character Lore)
+## 🧑‍💻 About Me (Crew Log)
 
-🌌 A BCA student from **Bangalore**  
-🔭 Currently forging **personal tech projects**  
-🌱 Training arc in **AI • ML • NLP**  
-👯 Looking for **collabs, hackathons & open-source quests**  
-💬 Ask me about **tech, projects, or anime theories**  
-⚡ Fun fact: I code like a calm MC but debug like a final-arc villain 😈  
+🌊 BCA student from **Bangalore**  
+🔭 Currently sailing through **personal tech projects**  
+🌱 Training arc: **AI • ML • NLP**  
+👯 Looking for **crew members (collabs & hackathons)**  
+💬 Ask me about **tech, projects, or One Piece theories**  
+⚡ Fun fact: I debug with Luffy-level confidence 😆  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Join My Crew
 
 <p align="center">
   <a href="https://linkedin.com/in/rahulp-0084ba2a4">
@@ -33,7 +41,7 @@
 
 ---
 
-## 🧰 Skill Scrolls
+## 🧰 Devil Fruits (Tech Stack)
 
 ### ⚔️ Languages
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
@@ -41,7 +49,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
-### 🧙‍♂️ Frontend Magic
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
@@ -53,7 +61,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-### 📊 Data & AI Powers
+### 📊 AI & Data Powers
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
@@ -62,7 +70,7 @@
 
 ---
 
-## 📊 Power Level Stats
+## 📊 Power Level (Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul006-max&show_icons=true&theme=tokyonight" />
@@ -76,7 +84,7 @@
 
 ---
 
-## 🏆 Achievements Arc
+## 🏆 Treasure Collected
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahul006-max&theme=onedark&no-frame=true" />
@@ -84,7 +92,7 @@
 
 ---
 
-## ✍️ Random Dev Quote (Sensei Wisdom)
+## ✍️ Captain’s Words
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -93,9 +101,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rahul006-max&color=12" />
-</p>
-
-<p align="center">
-  🌸 “Plus Ultra, but for debugging.” 🌸
+  🏴‍☠️ “I don’t want to conquer GitHub… I just want to be the best coder on it.” 🏴‍☠️
 </p>
