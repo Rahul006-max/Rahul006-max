@@ -4,7 +4,7 @@
 <h3 align="center">🔥 Future Pirate King of Code | AI Explorer | Anime Lover 🔥</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="320" alt="Monkey D. Luffy" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hjY2NsdGJxanp1M3N1MzhrZG5pY3J3cWd4bXk2MDlnbWszd2IwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif" width="360" alt="Monkey D. Luffy" />
 </p>
 
 <p align="center">
