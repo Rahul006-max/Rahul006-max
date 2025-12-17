@@ -1,16 +1,13 @@
 <!-- One Piece × Anime Themed GitHub Profile README -->
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5FD6F7&center=true&vCenter=true&width=500&lines=Rahul+P;AI+Explorer"
-    alt="Typing SVG"
-  />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5FD6F7&center=true&vCenter=true&width=500&lines=Rahul+P;AI+Explorer;Future+Pirate+King+of+Code"
+      alt="Typing SVG"
+    />
+  </a>
 </div>
-
 
 <h3 align="center">🔥 Future Pirate King of Code | AI Explorer | Anime Lover 🔥</h3>
 
@@ -22,7 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=rahul006-max&label=Visitors%20on%20the%20Grand%20Line&color=red&style=plastic" />
 </p>
 
-
 <p align="center">
   ☠️ Inspired by Monkey D. Luffy — Dream Big. Never Quit. ☠️
 </p>
@@ -30,7 +26,7 @@
 ---
 
 ## 🧑‍💻 About Me (Crew Log)
- 
+
 🔭 Currently sailing through **personal tech projects**  
 🌱 Training arc: **AI • ML • NLP**  
 👯 Looking for **crew members (collabs & hackathons)**  
@@ -39,7 +35,49 @@
 
 ---
 
-## 🌐 Connect with me 
+## 🚀 Featured Projects (Bounties)
+
+🔹 **🍱 FoodLoop** – AI-powered food redistribution platform  
+> Reducing food waste by redistributing surplus food efficiently  
+🛠 Tech: Node.js, MongoDB, AI logic  
+
+🔹 **⚡ BuzzStop** – EV Charging Discovery Platform  
+> Real-time public EV charger discovery + peer-to-peer home charging  
+🛠 Tech: Node.js, Maps API, Supabase  
+
+🔹 **🧠 MoodFlix** – Mood-based Movie Recommendation System  
+> Get movie recommendations using emojis or mood text  
+🛠 Tech: TMDb API, Node.js, ML tagging  
+
+---
+
+## 🏴‍☠️ Pirate Journey
+
+🌊 **East Blue** — Programming fundamentals (C, Python, Java)  
+⚔️ **Grand Line** — Web development, APIs, Databases  
+🔥 **New World** — AI, ML, NLP & real-world problem solving  
+👑 **Pirate King Arc** — Building impactful products (In Progress...)
+
+---
+
+## 📚 Training Arc (Current Focus)
+
+- 🤖 Applied Machine Learning  
+- 🧠 NLP & LLM fundamentals  
+- 🌐 Backend system design  
+- 🛠 Open-source contribution  
+
+---
+
+## 🏆 Hackathons & Community
+
+- 🧑‍💻 Core member & organizer at **BuildOra Community**  
+- ⚡ Conducted & participated in multiple hackathons  
+- 🤝 Collaborating with students & mentors across India  
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/rahulp-0084ba2a4">
