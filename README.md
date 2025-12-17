@@ -73,7 +73,7 @@
 ## 📊 Power Level (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul006-max&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul006-max&show_icons=true&theme=tokyonight&rank_icon=github" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=rahul006-max&theme=tokyonight" />
 </p>
