@@ -90,43 +90,44 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rahulp-0084ba2a4">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:rahulp22106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
 
 ---
 
-## 🧰 Devil Fruits (Tech Stack)
+<h2 align="center">🧰 Devil Fruits (Tech Stack)</h2>
 
-### ⚔️ Core Skills
+<h3 align="center">⚔️ Core Skills</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
 </p>
 
-### 🌐 Frontend
+<h3 align="center">🌐 Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
 </p>
 
-### 🧠 Backend & Tools
+<h3 align="center">🧠 Backend & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,npm,docker,postman&theme=dark" />
 </p>
 
-### 🗄️ Databases & Cloud
+<h3 align="center">🗄️ Databases & Cloud</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel&theme=dark" />
 </p>
 
-### 📊 AI / ML
+<h3 align="center">📊 AI / ML</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
-### 🛠️ Dev Tools
+<h3 align="center">🛠️ Dev Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,canva&theme=dark" />
 </p>
