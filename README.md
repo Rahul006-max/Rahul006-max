@@ -1,8 +1,16 @@
 <!-- One Piece × Anime Themed GitHub Profile README -->
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5FD6F7&width=435&lines=Rahul+P;AI+Explorer" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5FD6F7&center=true&vCenter=true&width=500&lines=Rahul+P;AI+Explorer"
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
+
 
 <h3 align="center">🔥 Future Pirate King of Code | AI Explorer | Anime Lover 🔥</h3>
 
