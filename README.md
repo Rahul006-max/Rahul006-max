@@ -1,5 +1,11 @@
 <!-- One Piece × Anime Themed GitHub Profile README -->
 
+<!-- 🔥 Top Animated Banner -->
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Anime Coding Banner" />
+</p>
+
+<!-- ✨ Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -11,10 +17,12 @@
 
 <h3 align="center">🔥 Future Pirate King of Code | AI Explorer | Anime Lover 🔥</h3>
 
+<!-- 🏴‍☠️ Luffy GIF -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hjY2NsdGJxanp1M3N1MzhrZG5pY3J3cWd4bXk2MDlnbWszd2IwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif" width="360" alt="Monkey D. Luffy" />
 </p>
 
+<!-- 👀 View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul006-max&label=Visitors%20on%20the%20Grand%20Line&color=red&style=plastic" />
 </p>
@@ -27,11 +35,12 @@
 
 ## 🧑‍💻 About Me (Crew Log)
 
-🔭 Currently sailing through **personal tech projects**  
-🌱 Training arc: **AI • ML • NLP**  
-👯 Looking for **crew members (collabs & hackathons)**  
-💬 Ask me about **tech, projects, or One Piece theories**  
-⚡ Fun fact: I debug with Luffy-level confidence 😆  
+🌊 A tech explorer sailing through **personal projects & hackathons**  
+🧠 Currently in a **training arc** focused on **AI • ML • NLP**  
+⚔️ I enjoy building **practical, logic-driven, impact-focused** solutions  
+🤝 Open to **collaborations, open-source, and hackathons**  
+💬 Talk to me about **tech, startups, or One Piece theories**  
+⚡ Fun fact: I stay calm like Luffy… until a bug becomes a boss fight 😆  
 
 ---
 
@@ -56,7 +65,7 @@
 🌊 **East Blue** — Programming fundamentals (C, Python, Java)  
 ⚔️ **Grand Line** — Web development, APIs, Databases  
 🔥 **New World** — AI, ML, NLP & real-world problem solving  
-👑 **Pirate King Arc** — Building impactful products (In Progress...)
+👑 **Pirate King Arc** — Building impactful tech (In Progress...)
 
 ---
 
@@ -92,30 +101,35 @@
 
 ## 🧰 Devil Fruits (Tech Stack)
 
-### ⚔️ Languages
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+### ⚔️ Core Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
+</p>
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
+</p>
 
 ### 🧠 Backend & Tools
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,npm,docker,postman&theme=dark" />
+</p>
 
-### 📊 AI & Data Powers
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel&theme=dark" />
+</p>
+
+### 📊 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
+
+### 🛠️ Dev Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,canva&theme=dark" />
+</p>
 
 ---
 
