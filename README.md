@@ -44,22 +44,6 @@
 
 ---
 
-## 🚀 Featured Projects (Bounties)
-
-🔹 **🍱 FoodLoop** – AI-powered food redistribution platform  
-> Reducing food waste by redistributing surplus food efficiently  
-🛠 Tech: Node.js, MongoDB, AI logic  
-
-🔹 **⚡ BuzzStop** – EV Charging Discovery Platform  
-> Real-time public EV charger discovery + peer-to-peer home charging  
-🛠 Tech: Node.js, Maps API, Supabase  
-
-🔹 **🧠 MoodFlix** – Mood-based Movie Recommendation System  
-> Get movie recommendations using emojis or mood text  
-🛠 Tech: TMDb API, Node.js, ML tagging  
-
----
-
 ## 🏴‍☠️ Pirate Journey
 
 🌊 **East Blue** — Programming fundamentals (C, Python, Java)  
@@ -80,7 +64,7 @@
 
 ## 🏆 Hackathons & Community
 
-- 🧑‍💻 Core member & organizer at **BuildOra Community**  
+- 🧑‍💻 Core member  at **BuildOra Community**  
 - ⚡ Conducted & participated in multiple hackathons  
 - 🤝 Collaborating with students & mentors across India  
 
