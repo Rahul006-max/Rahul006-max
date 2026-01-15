@@ -1,13 +1,22 @@
-<!-- ✨ Minimal Aesthetic GitHub Profile README -->
+<!-- ============================= -->
+<!--      GitHub Profile README    -->
+<!-- ============================= -->
 
-<!-- 🔹 Subtle Banner -->
+<!-- 🔹 Hero Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:2b5876&height=180&section=header&text=Rahul%20P&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img 
+    src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif"
+    alt="Coding Banner"
+    width="100%"
+  />
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=600&color=5FD6F7&center=true&vCenter=true&width=520&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Building+Practical+Tech+Solutions" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&pause=600&color=5FD6F7&center=true&vCenter=true&width=520&lines=Rahul+P;Computer+Science+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer"
+    alt="Typing SVG"
+  />
 </p>
 
 <h3 align="center">AI Explorer • Full-Stack Developer • Problem Solver</h3>
@@ -20,22 +29,30 @@
 
 ## 👋 About Me
 
-I’m a **Computer Science (BCA) student** passionate about building **practical, scalable, and impact-driven solutions**.  
-I enjoy working at the intersection of **software engineering and artificial intelligence**, focusing on real-world use cases rather than just theory.
+I’m a **Computer Science (BCA) student** passionate about building **practical, scalable, and impact-driven software solutions**.  
+I enjoy working on **backend systems, APIs, and AI-driven applications**, focusing on solving real-world problems.
 
 - 🔍 Interested in **AI, Machine Learning, NLP & Backend Systems**
 - 🧠 Strong foundation in **logic & problem-solving**
-- 🤝 Open to **open-source contributions, hackathons & collaborations**
-- 🚀 Always learning, always building
+- 🤝 Open to **open-source, hackathons & collaborations**
+- 🚀 Constantly learning and building
 
 ---
 
-## 🧭 Learning Journey
+## 🧠 Currently
 
-- **Foundations** → C, C++, Python, Java  
-- **Development** → Web apps, APIs, databases  
-- **Advanced Focus** → AI, ML, NLP, system design  
-- **Current Goal** → Building real-world, production-ready projects  
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/dc/23/94/dc2394a8ab2aa505e67047f363b1b53d.gif"
+    alt="Developer Working"
+    width="420"
+  />
+</p>
+
+- Learning **NLP & Large Language Models**
+- Building **backend-heavy applications**
+- Exploring **system design & scalable architectures**
+- Preparing for **internships and hackathons**
 
 ---
 
@@ -76,8 +93,8 @@ I enjoy working at the intersection of **software engineering and artificial int
 ## 🏆 Community & Experience
 
 - Core member at **BuildOra Community**
-- Participated in and helped organize **multiple hackathons**
-- Collaborating with developers and mentors across India
+- Participated in and organized **multiple hackathons**
+- Collaborating with developers & mentors across India
 
 ---
 
@@ -112,9 +129,5 @@ I enjoy working at the intersection of **software engineering and artificial int
 ---
 
 <p align="center">
-  <i>Focused on learning, consistency, and building meaningful software.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:1e1e2e&height=120&section=footer" />
+  <i>Focused on consistency, clarity, and building meaningful software.</i>
 </p>
