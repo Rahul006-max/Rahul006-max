@@ -29,13 +29,13 @@
 
 ## 👋 About Me
 
-I’m a **Computer Science (BCA) student** passionate about building **practical, scalable, and impact-driven software solutions**.  
-I enjoy working on **backend systems, APIs, and AI-driven applications**, focusing on solving real-world problems.
+I’m a **Computer Science (BCA) student** focused on building **practical, scalable, and impact-driven software**.  
+My interests lie in **backend systems, APIs, and AI-powered applications**.
 
-- 🔍 Interested in **AI, Machine Learning, NLP & Backend Systems**
-- 🧠 Strong foundation in **logic & problem-solving**
-- 🤝 Open to **open-source, hackathons & collaborations**
-- 🚀 Constantly learning and building
+- 🔍 AI, Machine Learning & NLP  
+- 🧠 Strong logic & problem-solving  
+- 🤝 Open to open-source & hackathons  
+- 🚀 Consistent learner & builder  
 
 ---
 
@@ -49,10 +49,10 @@ I enjoy working on **backend systems, APIs, and AI-driven applications**, focusi
   />
 </p>
 
-- Learning **NLP & Large Language Models**
+- Learning **NLP & LLM fundamentals**
 - Building **backend-heavy applications**
-- Exploring **system design & scalable architectures**
-- Preparing for **internships and hackathons**
+- Exploring **system design**
+- Preparing for **internships & hackathons**
 
 ---
 
@@ -83,46 +83,22 @@ I enjoy working on **backend systems, APIs, and AI-driven applications**, focusi
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
-### Dev & Design Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,canva&theme=dark" />
-</p>
-
 ---
 
-## 🏆 Community & Experience
-
-- Core member at **BuildOra Community**
-- Participated in and organized **multiple hackathons**
-- Collaborating with developers & mentors across India
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Self-Hosted ✅)
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Rahul006-max&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
-</p>
-
-<p align="center">
-  <i>Stats may take a minute to load due to GitHub caching.</i>
 </p>
 
 ---
