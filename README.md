@@ -22,7 +22,7 @@
 <h3 align="center">AI Explorer • Full-Stack Developer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul006-max&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul006-max&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -102,25 +102,28 @@ I enjoy working on **backend systems, APIs, and AI-driven applications**, focusi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Rahul006-max&theme=tokyonight"
-    alt="GitHub Streak Stats"
+    src="https://streak-stats.demolab.com?user=Rahul006-max&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul006-max&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
->
+
+<p align="center">
+  <i>Stats may take a minute to load due to GitHub caching.</i>
+</p>
 
 ---
 
