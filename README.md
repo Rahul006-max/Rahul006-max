@@ -1,76 +1,103 @@
-<!-- One Piece × Anime Themed GitHub Profile README -->
+<!-- ✨ Minimal Aesthetic GitHub Profile README -->
 
-<!-- 🔥 Top Animated Banner -->
+<!-- 🔹 Subtle Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" alt="Anime Coding Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:2b5876&height=180&section=header&text=Rahul%20P&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ✨ Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5FD6F7&center=true&vCenter=true&width=500&lines=Rahul+P;AI+Explorer;Future+Pirate+King+of+Code"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
-<h3 align="center">🔥 Future Pirate King of Code | AI Explorer | Anime Lover 🔥</h3>
-
-<!-- 🏴‍☠️ Luffy GIF -->
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hjY2NsdGJxanp1M3N1MzhrZG5pY3J3cWd4bXk2MDlnbWszd2IwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif" width="360" alt="Monkey D. Luffy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=600&color=5FD6F7&center=true&vCenter=true&width=520&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Building+Practical+Tech+Solutions" />
 </p>
 
-<!-- 👀 View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul006-max&label=Visitors%20on%20the%20Grand%20Line&color=red&style=plastic" />
-</p>
+<h3 align="center">AI Explorer • Full-Stack Developer • Problem Solver</h3>
 
 <p align="center">
-  ☠️ Inspired by Monkey D. Luffy — Dream Big. Never Quit. ☠️
+  <img src="https://komarev.com/ghpvc/?username=rahul006-max&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me (Crew Log)
+## 👋 About Me
 
-🌊 A tech explorer sailing through **personal projects & hackathons**  
-🧠 Currently in a **training arc** focused on **AI • ML • NLP**  
-⚔️ I enjoy building **practical, logic-driven, impact-focused** solutions  
-🤝 Open to **collaborations, open-source, and hackathons**  
-💬 Talk to me about **tech, startups, or One Piece theories**  
-⚡ Fun fact: I stay calm like Luffy… until a bug becomes a boss fight 😆  
+I’m a **Computer Science (BCA) student** passionate about building **practical, scalable, and impact-driven solutions**.  
+I enjoy working at the intersection of **software engineering and artificial intelligence**, focusing on real-world use cases rather than just theory.
 
----
-
-## 🏴‍☠️ Pirate Journey
-
-🌊 **East Blue** — Programming fundamentals (C, Python, Java)  
-⚔️ **Grand Line** — Web development, APIs, Databases  
-🔥 **New World** — AI, ML, NLP & real-world problem solving  
-👑 **Pirate King Arc** — Building impactful tech (In Progress...)
+- 🔍 Interested in **AI, Machine Learning, NLP & Backend Systems**
+- 🧠 Strong foundation in **logic & problem-solving**
+- 🤝 Open to **open-source contributions, hackathons & collaborations**
+- 🚀 Always learning, always building
 
 ---
 
-## 📚 Training Arc (Current Focus)
+## 🧭 Learning Journey
 
-- 🤖 Applied Machine Learning  
-- 🧠 NLP & LLM fundamentals  
-- 🌐 Backend system design  
-- 🛠 Open-source contribution  
-
----
-
-## 🏆 Hackathons & Community
-
-- 🧑‍💻 Core member  at **BuildOra Community**  
-- ⚡ Conducted & participated in multiple hackathons  
-- 🤝 Collaborating with students & mentors across India  
+- **Foundations** → C, C++, Python, Java  
+- **Development** → Web apps, APIs, databases  
+- **Advanced Focus** → AI, ML, NLP, system design  
+- **Current Goal** → Building real-world, production-ready projects  
 
 ---
 
-## 🌐 Connect with Me
+## 🛠 Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
+</p>
+
+### Backend & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,npm,docker,postman&theme=dark" />
+</p>
+
+### Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel&theme=dark" />
+</p>
+
+### AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
+
+### Dev & Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,canva&theme=dark" />
+</p>
+
+---
+
+## 🏆 Community & Experience
+
+- Core member at **BuildOra Community**
+- Participated in and helped organize **multiple hackathons**
+- Collaborating with developers and mentors across India
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul006-max&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rahul006-max&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul006-max&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/rahulp-0084ba2a4">
@@ -84,62 +111,10 @@
 
 ---
 
-<h2 align="center">🧰 Devil Fruits (Tech Stack)</h2>
-
-<h3 align="center">⚔️ Core Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
-</p>
-
-<h3 align="center">🌐 Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
-</p>
-
-<h3 align="center">🧠 Backend & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,npm,docker,postman&theme=dark" />
-</p>
-
-<h3 align="center">🗄️ Databases & Cloud</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel&theme=dark" />
-</p>
-
-<h3 align="center">📊 AI / ML</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-</p>
-
-<h3 align="center">🛠️ Dev Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,canva&theme=dark" />
-</p>
-
----
-
-## 📊 Power Level (Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul006-max&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rahul006-max&theme=tokyonight" />
+  <i>Focused on learning, consistency, and building meaningful software.</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul006-max&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## ✍️ Captain’s Words
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  🏴‍☠️ “I don’t want to conquer GitHub… I just want to be the best coder on it.” 🏴‍☠️
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:1e1e2e&height=120&section=footer" />
 </p>
