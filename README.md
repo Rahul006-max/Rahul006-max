@@ -85,21 +85,20 @@ My interests lie in **backend systems, APIs, and AI-powered applications**.
 
 ---
 
-## 📊 GitHub Stats (Self-Hosted ✅)
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=30"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30"
   />
 </p>
+
 
 ---
 
