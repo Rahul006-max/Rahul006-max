@@ -101,16 +101,26 @@ I enjoy working on **backend systems, APIs, and AI-driven applications**, focusi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul006-max&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rahul006-max&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Rahul006-max&theme=tokyonight"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul006-max&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul006-max&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
+>
 
 ---
 
