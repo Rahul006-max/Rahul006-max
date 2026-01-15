@@ -2,7 +2,7 @@
 
 <!-- 🔥 Top Animated Banner -->
 <p align="center">
-  <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7](https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif)" alt="Anime Coding Banner" />
+  <img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" alt="Anime Coding Banner" />
 </p>
 
 <!-- ✨ Typing SVG -->
