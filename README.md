@@ -30,7 +30,7 @@
 ## 👋 About Me
 
 I’m a **Computer Science (BCA) student** focused on building **practical, scalable, and impact-driven software**.  
-My interests lie in **backend systems, APIs, and AI-powered applications**.
+I enjoy working on **backend systems, APIs, and AI-powered applications** that solve real-world problems.
 
 - 🔍 AI, Machine Learning & NLP  
 - 🧠 Strong logic & problem-solving  
@@ -89,16 +89,17 @@ My interests lie in **backend systems, APIs, and AI-powered applications**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=30"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
   />
 </p>
-
 
 ---
 
@@ -112,6 +113,16 @@ My interests lie in **backend systems, APIs, and AI-powered applications**.
   <a href="mailto:rahulp22106@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
+</p>
+
+---
+
+## ✨ Quote of the Moment
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming"
+  />
 </p>
 
 ---
