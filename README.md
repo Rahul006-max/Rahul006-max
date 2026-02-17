@@ -1,5 +1,5 @@
 <!-- ================================================= -->
-<!--                    RAHUL P                        -->
+<!--                     RAHUL P                      -->
 <!-- ================================================= -->
 
 <p align="center">
@@ -10,29 +10,23 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=BCA+STUDENT;DATA+ANALYST+IN+TRAINING;SQL+%7C+PYTHON+%7C+DASHBOARDS;STRUCTURED+SYSTEMS"
+    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING;SQL+%7C+PYTHON+%7C+DASHBOARDS;STRUCTURED+SYSTEMS;CLARITY+OVER+NOISE"
   />
 </p>
 
 ---
 
-<pre>
-┌──────────────────────────────────────────────┐
-│ PROFILE                                      │
-└──────────────────────────────────────────────┘
-</pre>
+### PROFILE
+────────────────────────────────────────────────────────
 
-BCA student (CGPA 8.9).  
 Focused on structured, analytical systems.  
-Working with SQL, Python, and visualization tools to build decision-ready insights.
+Building data-driven solutions using SQL, Python, and visualization tools.  
+Interested in scalable workflows and decision-ready reporting.
 
 ---
 
-<pre>
-┌──────────────────────────────────────────────┐
-│ TECH STACK                                   │
-└──────────────────────────────────────────────┘
-</pre>
+### TECH STACK
+────────────────────────────────────────────────────────
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
@@ -43,7 +37,7 @@ Working with SQL, Python, and visualization tools to build decision-ready insigh
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vercel&theme=dark" />
 </p>
 
 Data Tools: Excel • Power BI • Tableau  
@@ -51,11 +45,8 @@ Libraries: Pandas • NumPy • Matplotlib
 
 ---
 
-<pre>
-┌──────────────────────────────────────────────┐
-│ PROJECT SNAPSHOT                             │
-└──────────────────────────────────────────────┘
-</pre>
+### PROJECT SNAPSHOT
+────────────────────────────────────────────────────────
 
 SALES PERFORMANCE ANALYSIS  
 • Cleaned 10,000+ rows  
@@ -69,11 +60,8 @@ BUSINESS INSIGHTS DASHBOARD
 
 ---
 
-<pre>
-┌──────────────────────────────────────────────┐
-│ CURRENT FOCUS                                │
-└──────────────────────────────────────────────┘
-</pre>
+### CURRENT FOCUS
+────────────────────────────────────────────────────────
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/dc/23/94/dc2394a8ab2aa505e67047f363b1b53d.gif" width="420"/>
@@ -86,11 +74,8 @@ BUSINESS INSIGHTS DASHBOARD
 
 ---
 
-<pre>
-┌──────────────────────────────────────────────┐
-│ STATISTICS                                   │
-└──────────────────────────────────────────────┘
-</pre>
+### STATISTICS
+────────────────────────────────────────────────────────
 
 <p align="center">
   <img
@@ -106,11 +91,8 @@ BUSINESS INSIGHTS DASHBOARD
 
 ---
 
-<pre>
-┌──────────────────────────────────────────────┐
-│ CONNECT                                      │
-└──────────────────────────────────────────────┘
-</pre>
+### CONNECT
+────────────────────────────────────────────────────────
 
 <p align="center">
   <a href="https://portfolio-gules-ten-39.vercel.app/">
@@ -128,11 +110,8 @@ BUSINESS INSIGHTS DASHBOARD
 
 ---
 
-<pre>
-┌──────────────────────────────────────────────┐
-│ QUOTE                                        │
-└──────────────────────────────────────────────┘
-</pre>
+### QUOTE
+────────────────────────────────────────────────────────
 
 <p align="center">
   <img
@@ -142,8 +121,8 @@ BUSINESS INSIGHTS DASHBOARD
 
 ---
 
-<pre align="center">
-CLARITY > COMPLEXITY
-STRUCTURE > DECORATION
-CONSISTENCY > CHAOS
-</pre>
+<p align="center">
+CLARITY > COMPLEXITY  
+STRUCTURE > DECORATION  
+CONSISTENCY > CHAOS  
+</p>
