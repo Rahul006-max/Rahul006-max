@@ -14,6 +14,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul006-max&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ### PROFILE
