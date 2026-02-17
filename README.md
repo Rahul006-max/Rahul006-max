@@ -1,139 +1,155 @@
 <!-- ============================= -->
-<!--      GitHub Profile README    -->
+<!--        RAHUL P README        -->
 <!-- ============================= -->
 
-<!-- 🔹 Hero GIF -->
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif"
-    alt="Coding Animation"
     width="100%"
   />
 </p>
 
-<h1 align="center">Rahul P</h1>
+<pre align="center">
+██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗     
+██╔══██╗██╔══██╗██║  ██║██║   ██║██║     
+██████╔╝███████║███████║██║   ██║██║     
+██╔══██╗██╔══██║██╔══██║██║   ██║██║     
+██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+</pre>
 
 <p align="center">
-  Data Analyst • Aspiring Data Engineer • Problem Solver
-</p>
-
-<p align="center">
-  <a href="https://portfolio-gules-ten-39.vercel.app/"><strong>🌐 Portfolio</strong></a>
-  &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/rahulp-data"><strong>LinkedIn</strong></a>
-  &nbsp;|&nbsp;
-  <a href="mailto:rahuljobsearchh@gmail.com"><strong>Email</strong></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul006-max&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=800&color=000000&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING;BCA+STUDENT;SQL+%7C+PYTHON+%7C+DASHBOARDS;STRUCTURE+OVER+NOISE"
+  />
 </p>
 
 ---
 
-## 👋 About Me
+<pre>
+┌────────────────────────────────────────────┐
+│ ABOUT                                      │
+└────────────────────────────────────────────┘
+</pre>
 
-I’m a **BCA student (CGPA: 8.9)** focused on building structured, data-driven solutions.
+Student of Bachelor of Computer Applications (CGPA 8.9).  
+Focused on structured, data-driven problem solving.  
+Building analytical systems using SQL, Python, and visualization tools.  
 
-I work with **SQL, Python, Excel, and Power BI** to clean, analyze, and visualize data that supports informed decision-making.
-
-- Turning raw data into insights  
-- Writing optimized SQL queries  
-- Designing KPI-driven dashboards  
-- Building backend-driven data workflows  
+Current direction:
+- Data analysis and reporting
+- Query optimization
+- Dashboard engineering
+- Backend data workflows
 
 ---
 
-## 🧠 Currently
+<pre>
+┌────────────────────────────────────────────┐
+│ TECH STACK                                 │
+└────────────────────────────────────────────┘
+</pre>
+
+LANGUAGES  
+Python  
+SQL  
+Java  
+C / C++  
+
+DATA & DATABASES  
+MySQL  
+PostgreSQL  
+Supabase  
+
+TOOLS  
+Excel  
+Power BI  
+Tableau  
+
+LIBRARIES  
+Pandas  
+NumPy  
+Matplotlib  
+
+---
+
+<pre>
+┌────────────────────────────────────────────┐
+│ PROJECT SNAPSHOT                           │
+└────────────────────────────────────────────┘
+</pre>
+
+SALES PERFORMANCE ANALYSIS  
+- Cleaned 10,000+ rows  
+- Built KPI dashboard  
+- Identified revenue trends  
+
+BUSINESS INSIGHTS DASHBOARD  
+- Transformed raw data  
+- Designed structured visual hierarchy  
+- Delivered decision-ready metrics  
+
+---
+
+<pre>
+┌────────────────────────────────────────────┐
+│ CURRENT WORK                               │
+└────────────────────────────────────────────┘
+</pre>
 
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/dc/23/94/dc2394a8ab2aa505e67047f363b1b53d.gif"
-    alt="Developer Working"
     width="420"
   />
 </p>
 
-- Advanced SQL & Query Optimization  
-- Data Analysis with Pandas  
-- ETL & Data Pipeline Fundamentals  
-- System Design Thinking  
+Studying:
+- Advanced SQL
+- Data pipeline fundamentals
+- Analytical system design
 
 ---
 
-## 🛠 Technical Stack
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp&theme=light" />
-</p>
-
-### Data & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
-</p>
-
-Excel • Power BI • Tableau • Supabase  
-Pandas • NumPy • Matplotlib  
-
----
-
-## 📂 Highlight Projects
-
-### 📊 Sales Performance Analysis
-- Cleaned 10,000+ rows of sales data  
-- Built interactive KPI dashboard  
-- Identified revenue and seasonal trends  
-
-### 📈 Business Insights Dashboard (Power BI)
-- Transformed raw data using Power Query  
-- Designed interactive visualizations  
-- Analyzed regional and time-based growth  
-
----
-
-## 📊 GitHub Stats
+<pre>
+┌────────────────────────────────────────────┐
+│ STATISTICS                                 │
+└────────────────────────────────────────────┘
+</pre>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=default&hide_border=true&rank_icon=github"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=default&hide_border=true"
   />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<pre>
+┌────────────────────────────────────────────┐
+│ CONTACT                                    │
+└────────────────────────────────────────────┘
+</pre>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahulp-data">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rahuljobsearchh@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-</p>
+PORTFOLIO  
+https://portfolio-gules-ten-39.vercel.app/
 
----
+LINKEDIN  
+https://linkedin.com/in/rahulp-data
 
-## ✨ Quote of the Moment
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming"
-  />
-</p>
+EMAIL  
+rahuljobsearchh@gmail.com
 
 ---
 
-<p align="center">
-  <i>Focused on consistency, clarity, and building meaningful systems.</i>
-</p>
+<pre align="center">
+CLARITY > COMPLEXITY
+STRUCTURE > DECORATION
+DISCIPLINE > NOISE
+</pre>
