@@ -1,125 +1,128 @@
 <!-- ================================================= -->
-<!--                R A H U L   P                     -->
+<!--                     RAHUL P                      -->
 <!-- ================================================= -->
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" width="100%" />
 </p>
 
+<h1 align="center">RAHUL P</h1>
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=rahul@system:~$+initializing_profile;data_analyst_in_training;sql_python_dashboards;system_ready"
+    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING;SQL+%7C+PYTHON+%7C+DASHBOARDS;STRUCTURED+SYSTEMS;CLARITY+OVER+NOISE"
   />
 </p>
 
 ---
 
-```bash
-rahul@system:~$ whoami
-```
+### PROFILE
+────────────────────────────────────────────────────────
 
-Data-focused problem solver  
-Building structured analytical systems  
-Interested in scalable data workflows  
-
----
-
-```bash
-rahul@system:~$ stack --list
-```
-
-LANGUAGES
-- python
-- sql
-- java
-- c / c++
-
-DATABASES
-- mysql
-- postgresql
-- supabase
-
-TOOLS
-- excel
-- powerbi
-- tableau
-
-LIBRARIES
-- pandas
-- numpy
-- matplotlib
+Focused on structured, analytical systems.  
+Building data-driven solutions using SQL, Python, and visualization tools.  
+Interested in scalable workflows and decision-ready reporting.
 
 ---
 
-```bash
-rahul@system:~$ projects --recent
-```
+### TECH STACK
+────────────────────────────────────────────────────────
 
-[ SALES_PERFORMANCE_ANALYSIS ]
-> cleaned 10k+ rows  
-> built kpi dashboard  
-> extracted revenue trends  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
+</p>
 
-[ BUSINESS_INSIGHTS_DASHBOARD ]
-> transformed raw datasets  
-> structured visual reporting  
-> delivered decision metrics  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vercel&theme=dark" />
+</p>
+
+Data Tools: Excel • Power BI • Tableau  
+Libraries: Pandas • NumPy • Matplotlib  
 
 ---
 
-```bash
-rahul@system:~$ currently_learning
-```
+### PROJECT SNAPSHOT
+────────────────────────────────────────────────────────
+
+SALES PERFORMANCE ANALYSIS  
+• Cleaned 10,000+ rows  
+• Built KPI dashboard  
+• Identified revenue trends  
+
+BUSINESS INSIGHTS DASHBOARD  
+• Transformed raw data  
+• Designed structured visuals  
+• Delivered actionable metrics  
+
+---
+
+### CURRENT FOCUS
+────────────────────────────────────────────────────────
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/dc/23/94/dc2394a8ab2aa505e67047f363b1b53d.gif" width="420"/>
 </p>
 
-- advanced_sql
-- query_optimization
-- data_pipeline_fundamentals
-- analytical_system_design
+• Advanced SQL  
+• Query optimization  
+• Data pipeline fundamentals  
+• Analytical system design  
 
 ---
 
-```bash
-rahul@system:~$ stats
-```
+### STATISTICS
+────────────────────────────────────────────────────────
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=chartreuse-dark&hide_border=true"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=chartreuse-dark&hide_border=true"
+    src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 ---
 
-```bash
-rahul@system:~$ connect
-```
+### CONNECT
+────────────────────────────────────────────────────────
 
-PORTFOLIO  
-https://portfolio-gules-ten-39.vercel.app/
-
-LINKEDIN  
-https://linkedin.com/in/rahulp-data
-
-EMAIL  
-rahuljobsearchh@gmail.com
+<p align="center">
+  <a href="https://portfolio-gules-ten-39.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rahulp-data">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rahuljobsearchh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
 
 ---
 
-```bash
-rahul@system:~$ philosophy
-```
+### QUOTE
+────────────────────────────────────────────────────────
 
-clarity > complexity  
-structure > noise  
-discipline > distraction  
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming"
+  />
+</p>
 
+---
+
+<p align="center">
+CLARITY > COMPLEXITY  
+STRUCTURE > DECORATION  
+CONSISTENCY > CHAOS  
+</p>
