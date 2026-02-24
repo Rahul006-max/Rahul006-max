@@ -7,8 +7,19 @@
 <!-- Hero Banner GIF -->
 <img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif" width="100%" />
 
-<!-- Dot Matrix / Terminal style name -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=48&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=RAHUL+P" />
+<!-- ASCII Art Name -->
+<div align="center">
+
+```
+ ██████╗   █████╗  ██╗  ██╗ ██╗   ██╗ ██╗       ██████╗ 
+ ██╔══██╗ ██╔══██╗ ██║  ██║ ██║   ██║ ██║       ██╔══██╗
+ ██████╔╝ ███████║ ███████║ ██║   ██║ ██║       ██████╔╝
+ ██╔══██╗ ██╔══██║ ██╔══██║ ██║   ██║ ██║       ██╔═══╝ 
+ ██║  ██║ ██║  ██║ ██║  ██║ ╚██████╔╝ ███████╗  ██║     
+ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝  ╚══════╝  ╚═╝     
+```
+
+</div>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING_;SQL+%7C+PYTHON+%7C+DASHBOARDS_;STRUCTURED+SYSTEMS_;CLARITY+OVER+NOISE_" />
@@ -147,5 +158,6 @@ Interested in scalable workflows and decision-ready reporting.
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=CLARITY+%3E+COMPLEXITY+%7C+STRUCTURE+%3E+DECORATION+%7C+CONSISTENCY+%3E+CHAOS" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
