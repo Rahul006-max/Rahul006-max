@@ -7,19 +7,7 @@
 <!-- Hero Banner GIF -->
 <img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif" width="100%" />
 
-<!-- ASCII Art Name -->
-<div align="center">
-
-```
- ██████╗   █████╗  ██╗  ██╗ ██╗   ██╗ ██╗       ██████╗ 
- ██╔══██╗ ██╔══██╗ ██║  ██║ ██║   ██║ ██║       ██╔══██╗
- ██████╔╝ ███████║ ███████║ ██║   ██║ ██║       ██████╔╝
- ██╔══██╗ ██╔══██║ ██╔══██║ ██║   ██║ ██║       ██╔═══╝ 
- ██║  ██║ ██║  ██║ ██║  ██║ ╚██████╔╝ ███████╗  ██║     
- ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝  ╚══════╝  ╚═╝     
-```
-
-</div>
+<h1 align="center">RAHUL P</h1>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING_;SQL+%7C+PYTHON+%7C+DASHBOARDS_;STRUCTURED+SYSTEMS_;CLARITY+OVER+NOISE_" />
@@ -105,7 +93,23 @@ Interested in scalable workflows and decision-ready reporting.
 
 ---
 
-### STATISTICS
+### OPEN TO WORK
+────────────────────────────────────────────────────────
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20SQL%20%7C%20Python-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gules-ten-39.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulp-data)
+
+</div>
+
+---
+
+
+
 ────────────────────────────────────────────────────────
 
 <div align="center">
@@ -158,6 +162,6 @@ Interested in scalable workflows and decision-ready reporting.
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=CLARITY+%3E+COMPLEXITY+%7C+STRUCTURE+%3E+DECORATION+%7C+CONSISTENCY+%3E+CHAOS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 
 </div>
