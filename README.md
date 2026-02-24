@@ -1,79 +1,87 @@
+<!-- ================================================= -->
+<!--                     RAHUL P                      -->
+<!-- ================================================= -->
+
 <div align="center">
 
-<!-- Animated Header Banner with Pixel Font -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAHUL%20P&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40&fontAlign=50&desc=DATA%20ANALYST%20%C2%B7%20SQL%20%C2%B7%20PYTHON%20%C2%B7%20VISUALIZATION&descAlignY=62&descAlign=50&descSize=13&descColor=cccccc" width="100%"/>
+<!-- Hero GIF Banner -->
+<img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" width="100%" />
 
-<!-- Typing Animation with Pixel Font -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=580&height=40&lines=CLARITY+%3E+COMPLEXITY;STRUCTURE+%3E+DECORATION;CONSISTENCY+%3E+CHAOS;BUILDING+DATA-DRIVEN+SOLUTIONS_" alt="Typing SVG" />
-</a>
+<!-- Pixel-style Name -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&text=RAHUL%20P&fontSize=46&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING_;SQL+%7C+PYTHON+%7C+DASHBOARDS_;STRUCTURED+SYSTEMS_;CLARITY+OVER+NOISE_" />
 
 <br/>
 
-<!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=rahulp&style=for-the-badge&color=blueviolet&label=Profile+Views&base=200)
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=Rahul006-max&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=200" />
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/rahulp?style=for-the-badge&color=ff69b4&labelColor=1a1a2e)
+<img src="https://img.shields.io/github/followers/Rahul006-max?style=for-the-badge&color=ff69b4&labelColor=1a1a2e&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-## About Me
+### PROFILE
+────────────────────────────────────────────────────────
 
-```python
-rahul = {
-    "focus"     : "Structured, analytical systems",
-    "building"  : "Data-driven solutions & decision-ready reports",
-    "interests" : ["Scalable workflows", "KPI dashboards", "Query optimization"],
-    "currently" : "Leveling up in Advanced SQL & Data Pipelines",
-    "motto"     : "Clarity > Complexity | Structure > Decoration"
-}
-```
+Focused on structured, analytical systems.
+Building data-driven solutions using SQL, Python, and visualization tools.
+Interested in scalable workflows and decision-ready reporting.
 
 ---
 
-## Tech Stack
+### TECH STACK
+────────────────────────────────────────────────────────
 
 <div align="center">
 
-**Data & BI Tools**
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<br/><br/>
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/><br/>
 
-**Libraries**
+<img src="https://skillicons.dev/icons?i=react,nodejs,vercel&theme=dark" />
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+<br/><br/>
+
+**Data Tools** &nbsp;·&nbsp; Excel &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; Tableau
+
+**Libraries** &nbsp;·&nbsp; Pandas &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Matplotlib
 
 </div>
 
 ---
 
-## Project Snapshot
+### PROJECT SNAPSHOT
+────────────────────────────────────────────────────────
 
 <div align="center">
 
 | Project | What I Did | Outcome |
 |:---|:---|:---|
 | **Sales Performance Analysis** | Cleaned 10,000+ rows of raw data | Built KPI dashboard & identified revenue trends |
-| **Business Insights Dashboard** | Transformed messy raw data | Designed structured visuals with actionable metrics |
+| **Business Insights Dashboard** | Transformed raw data | Designed structured visuals with actionable metrics |
 
 </div>
 
 ---
 
-## Current Focus
+### CURRENT FOCUS
+────────────────────────────────────────────────────────
 
 <div align="center">
+
+<img src="https://i.pinimg.com/originals/dc/23/94/dc2394a8ab2aa505e67047f363b1b53d.gif" width="420"/>
+
+</div>
+
+<br/>
 
 ```
 ╔══════════════════════════════════════════════╗
@@ -84,36 +92,52 @@ rahul = {
 ╚══════════════════════════════════════════════╝
 ```
 
-</div>
-
 ---
 
-## GitHub Stats
+### STATISTICS
+────────────────────────────────────────────────────────
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulp&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&border_radius=12" height="165"/>
+<img src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&border_radius=12" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12" height="165"/>
+<img src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulp&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=f59e0b&fire=ff6b6b&currStreakLabel=a855f7" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul006-max&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=f59e0b&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12" height="170"/>
 
 </div>
 
 ---
 
-## Connect
+### CONNECT
+────────────────────────────────────────────────────────
 
 <div align="center">
 
-<!-- Replace # with your actual links -->
+<a href="https://portfolio-gules-ten-39.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rahulp-data">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rahuljobsearchh@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulp-data)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul006-max)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RON8N)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahuljobsearchh@email.com)
+</div>
+
+---
+
+### QUOTE
+────────────────────────────────────────────────────────
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming" />
 
 </div>
 
@@ -121,7 +145,7 @@ rahul = {
 
 <div align="center">
 
-> *"Clarity over Complexity. Structure over Decoration. Consistency over Chaos."*
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=CLARITY+%3E+COMPLEXITY+%7C+STRUCTURE+%3E+DECORATION+%7C+CONSISTENCY+%3E+CHAOS" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
