@@ -147,6 +147,5 @@ Interested in scalable workflows and decision-ready reporting.
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=CLARITY+%3E+COMPLEXITY+%7C+STRUCTURE+%3E+DECORATION+%7C+CONSISTENCY+%3E+CHAOS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
