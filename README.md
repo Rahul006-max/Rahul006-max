@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Hero GIF Banner -->
-<img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" width="100%" />
+<!-- Hero Banner Image -->
+<img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" width="100%" />
 
 <!-- Pixel-style Name -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&text=RAHUL%20P&fontSize=46&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
@@ -99,13 +99,13 @@ Interested in scalable workflows and decision-ready reporting.
 
 <div align="center">
 
-<img src="https://github-readme-stats-seven-ochre-89.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&border_radius=12" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats-seven-ochre-89.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul006-max&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=f59e0b&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Rahul006-max&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=f59e0b&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12" height="170"/>
 
 </div>
 
