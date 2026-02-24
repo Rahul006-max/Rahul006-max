@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<!-- Hero Banner Image -->
-<img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" width="100%" />
+<!-- Hero Banner GIF -->
+<img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif" width="100%" />
 
-<!-- Pixel-style Name -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&text=RAHUL%20P&fontSize=46&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+<!-- Dot Matrix / Terminal style name -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=48&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=RAHUL+P" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING_;SQL+%7C+PYTHON+%7C+DASHBOARDS_;STRUCTURED+SYSTEMS_;CLARITY+OVER+NOISE_" />
@@ -99,9 +99,9 @@ Interested in scalable workflows and decision-ready reporting.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&border_radius=12" height="170"/>
+<img src="https://github-readme-stats-pranesh.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&border_radius=12&cache_seconds=60" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12" height="170"/>
+<img src="https://github-readme-stats-pranesh.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12&cache_seconds=60" height="170"/>
 
 <br/><br/>
 
