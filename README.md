@@ -59,8 +59,6 @@
   </p>
   
   <br>
-  <i>* All repositories are maintained with strict version control, comprehensive technical documentation, and performance-optimized architecture.</i>
-
   <br clear="all" />
 </div>
 
