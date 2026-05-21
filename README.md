@@ -4,11 +4,13 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/Rahul006-max?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  <a href="https://github.com/Rahul006-max?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=github" /></a>
   &nbsp;
-  <a href="https://github.com/Rahul006-max?tab=repositories"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/Rahul006-max/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+" /></a>
+  <a href="https://github.com/Rahul006-max?tab=repositories"><img alt="Forks" src="https://img.shields.io/github/forks/Rahul006-max/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=github" /></a>
   &nbsp;
-  <a href="https://github.com/Rahul006-max?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  <a href="https://github.com/Rahul006-max?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=github" /></a>
+  &nbsp;
+  <a href="https://github.com/Rahul006-max"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Rahul006-max&style=for-the-badge&color=000000&label=VIEWS&logo=github&v=4" /></a>
 </div>
 
 <br><br>
@@ -19,48 +21,49 @@
 
 <br>
 
-<table width="100%" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr style="border: none;">
-    <td width="30%" align="center" valign="middle" style="border: none; padding-right: 20px;">
-      <img src="https://i.postimg.cc/nhR0LpZ0/gitgodhand.png" width="210">
-    </td>
-    <td width="70%" valign="middle" style="border: none;">
-      <h3>Hello. I am Rahul P.</h3>
-      <p>I am a final-year BCA student at The National College in Bangalore, currently applying data-centric solutions as a <strong>Data Analyst Intern</strong> at Evap Solar within the clean energy sector.</p>
-      <p>My architectural approach is governed by strict functionalism — prioritizing raw statistical analysis, optimized data pipelines, and rigorous benchmarking over superficial design.</p>
-    </td>
-  </tr>
-</table>
+<div align="justify">
+  <img src="https://i.postimg.cc/nhR0LpZ0/gitgodhand.png" width="210" align="left" style="margin-right: 25px; margin-bottom: 15px;">
+  
+  <h3>Hello. I am Rahul P.</h3>
+  <p>I am a final-year BCA student at The National College in Bangalore, currently applying data-centric solutions as a <strong>Data Analyst Intern</strong> at Evap Solar within the clean energy sector.</p>
+  <p>My architectural approach is governed by strict functionalism — prioritizing raw statistical analysis, optimized data pipelines, and rigorous benchmarking over superficial design.</p>
+  
+  <br clear="all" />
+</div>
 
-<br>
 <hr style="border: 1px solid #333; margin-top: 20px; margin-bottom: 20px;">
 <br>
 
-<table width="100%" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr style="border: none;">
-    <td width="70%" valign="middle" style="border: none;">
-      <h3>Analytical Projects</h3>
-      <br>
-      <p>
-        <a href="https://github.com/Rahul006-max/RANGO"><img src="https://img.shields.io/badge/RANGO-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a><br>
-        ↳ Benchmarking & Evaluation platform for RAG strategies.
-      </p>
-      <p>
-        <a href="https://github.com/Rahul006-max/LunaBot"><img src="https://img.shields.io/badge/LunaBot-000000?style=for-the-badge&logo=ros&logoColor=white" valign="middle"></a><br>
-        ↳ Telemetry & Spatial Data processing for ROS 2 navigation.
-      </p>
-      <p>
-        <a href="#"><img src="https://img.shields.io/badge/Clean%20Energy%20Metrics-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a><br>
-        ↳ Data-centric contributions during my Evap Solar internship.
-      </p>
-    </td>
-    <td width="30%" align="center" valign="middle" style="border: none; padding-left: 20px;">
-      <img src="https://i.postimg.cc/RFNcbHHF/bleach-project.png" width="170">
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://i.postimg.cc/RFNcbHHF/bleach-project.png" width="220" align="right" style="margin-left: 25px; margin-bottom: 15px;">
 
-<br>
+  <h3>Analytical Projects</h3>
+  <br>
+  
+  <p>
+    <a href="https://github.com/Rahul006-max/RANGO"><img src="https://img.shields.io/badge/RANGO-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a><br>
+    ↳ <i>Benchmarking & Evaluation platform for RAG strategies.</i><br>
+    Engineered with React and FastAPI to evaluate pipeline performance, optimize retrieval latency, and quantify generation accuracy.
+  </p>
+  <br>
+  <p>
+    <a href="https://github.com/Rahul006-max/LunaBot"><img src="https://img.shields.io/badge/LunaBot-000000?style=for-the-badge&logo=ros&logoColor=white" valign="middle"></a><br>
+    ↳ <i>Telemetry & Spatial Data processing for ROS 2 navigation.</i><br>
+    Processed complex sensor datasets to validate autonomous robotic navigation algorithms within simulated lunar environments.
+  </p>
+  <br>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Clean%20Energy%20Metrics-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a><br>
+    ↳ <i>Data-centric contributions during my Evap Solar internship.</i><br>
+    Structured raw energy metrics and optimized backend data pipelines to facilitate high-precision statistical analysis.
+  </p>
+  
+  <br>
+  <i>* All repositories are maintained with strict version control, comprehensive technical documentation, and performance-optimized architecture.</i>
+
+  <br clear="all" />
+</div>
+
 <hr style="border: 1px solid #333; margin-top: 20px; margin-bottom: 20px;">
 <br>
 
