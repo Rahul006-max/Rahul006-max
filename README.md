@@ -25,8 +25,8 @@
   <img src="https://i.postimg.cc/nhR0LpZ0/gitgodhand.png" width="210" align="left" style="margin-right: 25px; margin-bottom: 15px;">
   
   <h3>Hello. I am Rahul P.</h3>
-  <p>I am a final-year BCA student at The National College in Bangalore, currently applying data-centric solutions as a <strong>Data Analyst Intern</strong> at Evap Solar within the clean energy sector.</p>
-  <p>My architectural approach is governed by strict functionalism — prioritizing raw statistical analysis, optimized data pipelines, and rigorous benchmarking over superficial design.</p>
+  <p>I am Rahul ,a student who is specializing as a <strong>Data Engineer</strong>. Alongside co-founding the developer community Build-Ora, my foundation is built on Python, SQL, and creating scalable system architectures.</p>
+  <p>My approach is governed by strict functionalism — prioritizing robust ETL pipelines, high-performance backend design, and rigorous RAG optimization over superficial decoration.</p>
   
   <br clear="all" />
 </div>
@@ -37,25 +37,25 @@
 <div align="left">
   <img src="https://i.postimg.cc/RFNcbHHF/bleach-project.png" width="220" align="right" style="margin-left: 25px; margin-bottom: 15px;">
 
-  <h3>Analytical Projects</h3>
+  <h3>Analytical Projects & Experience</h3>
   <br>
   
   <p>
     <a href="https://github.com/Rahul006-max/RANGO"><img src="https://img.shields.io/badge/RANGO-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a><br>
     ↳ <i>Benchmarking & Evaluation platform for RAG strategies.</i><br>
-    Engineered with React and FastAPI to evaluate pipeline performance, optimize retrieval latency, and quantify generation accuracy.
+    Engineered with React and FastAPI to prioritize performance, structural clarity, and horizontal scalability when processing unstructured inputs.
   </p>
   <br>
   <p>
-    <a href="https://github.com/Rahul006-max/LunaBot"><img src="https://img.shields.io/badge/LunaBot-000000?style=for-the-badge&logo=ros&logoColor=white" valign="middle"></a><br>
-    ↳ <i>Telemetry & Spatial Data processing for ROS 2 navigation.</i><br>
-    Processed complex sensor datasets to validate autonomous robotic navigation algorithms within simulated lunar environments.
+    <a href="https://github.com/Rahul006-max/Study-Buddy"><img src="https://img.shields.io/badge/Study_Buddy-000000?style=for-the-badge&logo=python&logoColor=white" valign="middle"></a><br>
+    ↳ <i>Document-processing orchestration pipeline.</i><br>
+    Integrated LangChain and Streamlit to ingest complex unstructured PDFs and automatically extract, parse, and output structured study notes.
   </p>
   <br>
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Clean%20Energy%20Metrics-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a><br>
-    ↳ <i>Data-centric contributions during my Evap Solar internship.</i><br>
-    Structured raw energy metrics and optimized backend data pipelines to facilitate high-precision statistical analysis.
+    <a href="#"><img src="https://img.shields.io/badge/Data_Analyst_Intern-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a><br>
+    ↳ <i>Data-centric contributions at EVAP Solars.</i><br>
+    Executed strict ETL processes to clean raw operational data, engineer optimized backend workflows, and translate business requirements into scalable technical solutions.
   </p>
   
   <br>
@@ -104,12 +104,12 @@
   <table align="center" style="background: transparent; border: none;">
     <tr>
       <td align="right" valign="middle" style="padding: 15px 20px 15px 0px; border: none;">
-        <strong>Languages</strong>
+        <strong>Languages & DBs</strong>
       </td>
       <td align="left" valign="middle" style="padding: 15px 0px; border: none;">
         <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@
       </td>
       <td align="left" valign="middle" style="padding: 15px 0px; border: none;">
         <img src="https://img.shields.io/badge/Data_Engineering-000000?style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/Statistical_Analysis-000000?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/ETL_Pipelines-000000?style=for-the-badge&logoColor=white">
         <img src="https://img.shields.io/badge/RAG_Optimization-000000?style=for-the-badge&logoColor=white">
       </td>
     </tr>
@@ -128,8 +128,8 @@
       </td>
       <td align="left" valign="middle" style="padding: 15px 0px; border: none;">
         <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white">
       </td>
     </tr>
   </table>
