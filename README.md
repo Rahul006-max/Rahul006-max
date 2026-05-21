@@ -1,167 +1,119 @@
-<!-- ================================================= -->
-<!--                     RAHUL P                      -->
-<!-- ================================================= -->
-
-<div align="center">
-
-<!-- Hero Banner GIF -->
-<img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif" width="100%" />
-
-<h1 align="center">RAHUL P</h1>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=DATA+ANALYST+IN+TRAINING_;SQL+%7C+PYTHON+%7C+DASHBOARDS_;STRUCTURED+SYSTEMS_;CLARITY+OVER+NOISE_" />
-
-<br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Rahul006-max&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=200" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Rahul006-max?style=for-the-badge&color=ff69b4&labelColor=1a1a2e&label=FOLLOWERS" />
-
-</div>
-
----
-
-### PROFILE
-────────────────────────────────────────────────────────
-
-Focused on structured, analytical systems.
-Building data-driven solutions using SQL, Python, and visualization tools.
-Interested in scalable workflows and decision-ready reporting.
-
----
-
-### TECH STACK
-────────────────────────────────────────────────────────
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,vercel&theme=dark" />
-
-<br/><br/>
-
-**Data Tools** &nbsp;·&nbsp; Excel &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; Tableau
-
-**Libraries** &nbsp;·&nbsp; Pandas &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Matplotlib
-
-</div>
-
----
-
-### PROJECT SNAPSHOT
-────────────────────────────────────────────────────────
-
-<div align="center">
-
-| Project | What I Did | Outcome |
-|:---|:---|:---|
-| **Sales Performance Analysis** | Cleaned 10,000+ rows of raw data | Built KPI dashboard & identified revenue trends |
-| **Business Insights Dashboard** | Transformed raw data | Designed structured visuals with actionable metrics |
-
-</div>
-
----
-
-### CURRENT FOCUS
-────────────────────────────────────────────────────────
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/dc/23/94/dc2394a8ab2aa505e67047f363b1b53d.gif" width="420"/>
-
-</div>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════╗
-║   Advanced SQL & Query Optimization          ║
-║   Data Pipeline Fundamentals                 ║
-║   Analytical System Design                   ║
-║   Scalable Reporting Workflows               ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-### OPEN TO WORK
-────────────────────────────────────────────────────────
-
-<div align="center">
-
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20SQL%20%7C%20Python-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gules-ten-39.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulp-data)
-
-</div>
-
----
-
-
-
-────────────────────────────────────────────────────────
-
-<div align="center">
-
-<img src="https://github-readme-stats-pranesh.vercel.app/api?username=Rahul006-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&border_radius=12&cache_seconds=60" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats-pranesh.vercel.app/api/top-langs/?username=Rahul006-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12&cache_seconds=60" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Rahul006-max&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=f59e0b&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12" height="170"/>
-
-</div>
-
----
-
-### CONNECT
-────────────────────────────────────────────────────────
-
-<div align="center">
-
-<a href="https://portfolio-gules-ten-39.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/rahulp-data">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:rahuljobsearchh@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+<a href="https://github.com/Rahul006-max">
+  <img src="https://i.postimg.cc/xTgWKrnN/odenbanner.png" width="100%" alt="Profile Banner"/>
 </a>
 
+<div align="center">
+  <a href="https://github.com/Rahul006-max?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  &nbsp;
+  <a href="https://github.com/Rahul006-max?tab=repositories"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/Rahul006-max/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+" /></a>
+  &nbsp;
+  <a href="https://github.com/Rahul006-max?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/Rahul006-max?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
 </div>
 
----
-
-### QUOTE
-────────────────────────────────────────────────────────
+<br>
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming" />
-
+  <h2>Identity & Professional Data</h2>
 </div>
 
----
+<img src="https://i.postimg.cc/nhR0LpZ0/gitgodhand.png" width="210" align="left" style="margin-right: 15px;">
+
+<div align="justify">
+  <h3>Hello. I am Rahul P.</h3>
+  I am a final-year BCA student at The National College in Bangalore, currently applying data-centric solutions as a Data Analyst Intern at Evap Solar within the clean energy sector. My architectural approach is governed by strict functionalism — prioritizing raw statistical analysis, optimized data pipelines, and rigorous benchmarking over superficial design.
+  <br><br>
+  
+  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+  
+  <img src="https://i.postimg.cc/k4B4dNsh/d2db10b88421c01ef6d62911fdf89290-Photoroom.png" width="170" align="right" style="margin-left: 15px;">
+  
+  <h3>Analytical Projects</h3>
+  <a href="https://github.com/Rahul006-max/RANGO"><img src="https://img.shields.io/badge/RANGO-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Benchmarking & Evaluation platform for RAG strategies.<br>
+  <a href="https://github.com/Rahul006-max/LunaBot"><img src="https://img.shields.io/badge/LunaBot-000000?style=for-the-badge&logo=ros&logoColor=white" valign="middle"></a>&nbsp; Telemetry & Spatial Data processing for ROS 2 navigation.<br>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Energy%20Metrics-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Data-centric contributions during my Evap Solar internship.
+  
+  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+</div>
+
+
+<br clear="left"/>
+<br clear="right"/>
 
 <div align="center">
+  <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%">
+  <br>
+   
+  <br>
+  <a href="https://github.com/Rahul006-max"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rahulp-data/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:rahuljobsearchh@gmail.com"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href="https://leetcode.com/Rahul006-max"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/Rahul006-max"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=CLARITY+%3E+COMPLEXITY+%7C+STRUCTURE+%3E+DECORATION+%7C+CONSISTENCY+%3E+CHAOS" />
+<br>
 
+> CLARITY > COMPLEXITY
 
+> DATA > OPINION
 
+<br clear="right"/>
+<br>
+
+<div align="center">
+  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  
+  <br>
+</div>
+
+<div align="center">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Rahul006-max/Rahul006-max/output/github-snake-dark.svg" width="100%">
+</p>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
+  <br>
+  <br>
+  <br>
+
+  <table align="center" style="background: transparent; border: none;">
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Languages</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Specialties</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Data_Engineering-000000?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/Statistical_Analysis-000000?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/RAG_Optimization-000000?style=for-the-badge&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Tools & Frameworks</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+      </td>
+    </tr>
+  </table>
 </div>
